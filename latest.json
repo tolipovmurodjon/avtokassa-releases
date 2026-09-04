@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
-  "url": "https://github.com/tolipovmurodjon/avtokassa-releases/releases/download/v0.0.0/AvtoKassaSetup.exe",
-  "sha256": "",
-  "notes": "Placeholder. Replaced automatically by the release workflow."
+  "version": "0.4.2",
+  "url": "https://github.com/tolipovmurodjon/avtokassa-releases/releases/download/v0.4.2/AvtoKassaSetup.exe",
+  "sha256": "29c922169f056194f18e863ee080775cc8979e4cd97177a75691530ed045345e",
+  "notes": "fix(release): quote the Inno Setup path so PowerShell can parse it"
 }
